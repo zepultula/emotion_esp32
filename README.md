@@ -1,15 +1,30 @@
-# emotion_esp32
-ขอขอบคุณส่วนของเว็บไซต์ 
-https://makerworld.com/en/models/1557199-notchi-mini-robot-companion-accessory#profileId-1636211 
-https://drive.google.com/drive/folders/1K8lKehPyC5Ysta6jyVUPK2eaRmnuKCiN
-ที่ได้เผยแพร่ code ในการใช้งาน ส่วนผมเป็นผู้ที่นำมาต่อยอดโปรเจคต่างๆ
+# emotion_esp32_animate
+*ขอขอบคุณส่วนของเว็บไซต์ makerworld.com ที่ได้เผยแพร่ code ส่วนผมเป็นผู้ที่นำมาต่อยอดโปรเจคต่างๆ*
 
-* จากที่ได้เห็นนั้นน่าสนใจ *
-พยายามหา แต่ไม่มีใครแจกจ่ายเลย ซึ่งตรงนี้เองเป็นที่น่าเสียดายมาก ที่บางคนได้มาจากบุคคลนิรนามแต่หวงไว้ไม่เอามาแจกจ่ายต่อตามวัตถุประสงค์
+[อ้างอิง](https://makerworld.com/en/models/1557199-notchi-mini-robot-companion-accessory#profileId-1636211)
+[Code อ้างอิง](https://drive.google.com/drive/folders/1K8lKehPyC5Ysta6jyVUPK2eaRmnuKCiN)
 
-ดังนั้นผมเมื่อได้ต่อมาอีกที และอาจจะปรับปรุงบ้างส่วนในส่วนของการใช้งาน oled แต่ต่อบยอดปรับแต่งใช้กับ TFT 
-จึงมีความประสงค์ที่จะแจกจ่ายให้ทุกท่านที่สนในสามารถเข้ามาโหลดเพื่อไปใช้งานได้
+## *จากที่ได้เห็นนั้นน่าสนใจ*
+พยายามหา แต่ไม่มีใครแจกจ่ายเลย ซึ่งตรงนี้เองเป็นที่น่าเสียดายมาก ที่บางคนได้มาจากบุคคลนิรนาม แต่หวงไว้ไม่เอามาแจกจ่ายต่อตามวัตถุประสงค์
 
-ในการนี้จะพยายามอับเดทเนื้อหา เพื่อให้ผู้อื่นนำไปใช้งานได้ง่ายที่สุด
+## ดังนั้น
+เมื่อผมได้ต่อมาอีกที และดำเนินการปรับปรุงบางส่วน แก้ไขในส่วนของการใช้งาน oled ssd1306 และต่อบยอดปรับแต่งใช้กับ TFT ST7735 จึงมีความประสงค์ที่จะแจกจ่ายให้ทุกท่านที่สนในสามารถเข้ามาโหลดเพื่อไปใช้งานได้
 
-ปล. ยังไม่เสร็จสิ้น
+## สุดท้ายนี้
+จะพยายามอับเดทเนื้อหา เพื่อให้ผู้อื่นนำไปใช้งานได้ง่ายที่สุด
+
+### ปล. ยังไม่เสร็จสิ้น
+
+## My Open-Source Contribution: Building on "Notchi Mini Robot Companion Accessory"
+First and foremost, I'd like to express my gratitude to makerworld.com for sharing the original code, which served as the foundation for my ongoing projects.
+
+## The Journey to Open Source
+Initially, I found the project highly interesting but noticed a lack of publicly available distributions or continued development. It was truly disappointing to see that some individuals, after obtaining the code from anonymous sources, chose to hoard it instead of sharing it further, which goes against the spirit of open collaboration.
+
+## My Contribution
+Therefore, after acquiring the code myself and undertaking several improvements, particularly in adapting it for OLED SSD1306 and further developing it to work with TFT ST7735 displays, I'm now making it available for everyone interested to download and use.
+
+## Looking Ahead
+I will strive to update the content regularly to ensure it's as user-friendly as possible for everyone.
+
+### P.S. The project is still under development.
