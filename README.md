@@ -1,5 +1,7 @@
 # emotion_esp32
-ขอขอบคุณส่วนของเว็บไซต์ https://makerworld.com/en/models/1557199-notchi-mini-robot-companion-accessory#profileId-1636211 
+ขอขอบคุณส่วนของเว็บไซต์ 
+https://makerworld.com/en/models/1557199-notchi-mini-robot-companion-accessory#profileId-1636211 
+https://drive.google.com/drive/folders/1K8lKehPyC5Ysta6jyVUPK2eaRmnuKCiN
 ที่ได้เผยแพร่ code ในการใช้งาน ส่วนผมเป็นผู้ที่นำมาต่อยอดโปรเจคต่างๆ
 
 * จากที่ได้เห็นนั้นน่าสนใจ *
