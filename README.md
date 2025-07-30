@@ -4,8 +4,8 @@
 [อ้างอิง](https://makerworld.com/en/models/1557199-notchi-mini-robot-companion-accessory#profileId-1636211)
 [Code อ้างอิง](https://drive.google.com/drive/folders/1K8lKehPyC5Ysta6jyVUPK2eaRmnuKCiN)
 
-## *จากที่ได้เห็นนั้นน่าสนใจ*
-พยายามหา แต่ไม่มีใครแจกจ่ายเลย ซึ่งตรงนี้เองเป็นที่น่าเสียดายมาก ที่บางคนได้มาจากบุคคลนิรนาม แต่หวงไว้ไม่เอามาแจกจ่ายต่อตามวัตถุประสงค์
+## *ความน่าสนใจ*
+ผมพยายามค้นหา แต่ไม่มีใครแจกจ่ายเลย ซึ่งตรงนี้เองเป็นที่น่าเสียดายมาก ที่บางคนได้มาจากบุคคลนิรนาม แต่หวงไว้ไม่เอามาแจกจ่ายต่อตามวัตถุประสงค์
 
 ## ดังนั้น
 เมื่อผมได้ต่อมาอีกที และดำเนินการปรับปรุงบางส่วน แก้ไขในส่วนของการใช้งาน oled ssd1306 และต่อบยอดปรับแต่งใช้กับ TFT ST7735 จึงมีความประสงค์ที่จะแจกจ่ายให้ทุกท่านที่สนในสามารถเข้ามาโหลดเพื่อไปใช้งานได้
@@ -14,6 +14,8 @@
 จะพยายามอับเดทเนื้อหา เพื่อให้ผู้อื่นนำไปใช้งานได้ง่ายที่สุด
 
 ### ปล. ยังไม่เสร็จสิ้น
+
+---
 
 ## My Open-Source Contribution: Building on "Notchi Mini Robot Companion Accessory"
 First and foremost, I'd like to express my gratitude to makerworld.com for sharing the original code, which served as the foundation for my ongoing projects.
