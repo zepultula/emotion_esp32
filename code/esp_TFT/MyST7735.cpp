@@ -12,7 +12,8 @@ MyST7735::MyST7735(int8_t cs, int8_t dc, int8_t rst)
 
 void MyST7735::init(void) {
   initR(INITR_MINI160x80);
-  setColRowStart(26, 1);
+  // setColRowStart(26, 1);// เกิดขอบที่ด้านบนและขอบด้านซ้าย
+  setColRowStart(24, 0); // แก้ไขปัญหาการเกิดขอบ
 }
 
 /*************************************************************************
